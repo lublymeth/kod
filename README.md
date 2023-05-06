@@ -1,0 +1,2 @@
+# kod
+kod from Python
